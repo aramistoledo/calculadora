@@ -1,4 +1,4 @@
-## Projeto feito com HTML, CSS e Javascript
+## Projeto feito com HTML, CSS e JavaScript
 ## Para visualizar o projeto acesse o link abaixo
 https://aramistoledo.github.io/calculadora/
 
